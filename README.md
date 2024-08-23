@@ -1,6 +1,6 @@
 # LEGO SPIKE Prime Robotersteuerung
 
-Dieses Projekt enthält einen Python-Code für die Steuerung eines LEGO SPIKE Prime Roboters. Es handelt sich um eine angepasste Version, die auf dem ursprünglichen Code von [Go FLL](https://github.com/GoFLL) basiert.
+Dieses Projekt enthält einen Python-Code für die Steuerung eines LEGO SPIKE Prime Roboters. Es handelt sich um eine angepasste Version, die auf dem ursprünglichen Code von [GO Robot]([https://github.com/GoFLL](https://github.com/GO-Robot-FLL)) basiert.
 
 ## Funktionen
 
